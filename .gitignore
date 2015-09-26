@@ -15,4 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
-/config/dropbox.yml
+
+# Ignore application configuration
+/config/application.yml
